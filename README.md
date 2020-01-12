@@ -1,6 +1,6 @@
 # KeyPress Compare Application
 
-Simple algorthm that compares keypresses.
+Simple algorthim that compares keypresses.
 
 ## Description
 
